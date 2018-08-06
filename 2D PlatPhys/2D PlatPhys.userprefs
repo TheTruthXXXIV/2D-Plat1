@@ -1,0 +1,18 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj" RefactoringSettings.EnableRefactorings="True">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\LauncherEnemy.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Enemy\Enemy.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Player\HeadStomper.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Enemy\EnemyBat.cs" Line="25" Column="16" />
+      <File FileName="Assets\Scripts\Player\PlayerController2D.cs" Line="129" Column="3" />
+      <File FileName="Assets\Scripts\LauncherEnemy.cs" Line="54" Column="4" />
+      <File FileName="Assets\Scripts\ObjectThrownAtPlayer.cs" Line="59" Column="4" />
+      <File FileName="Assets\Scripts\CoinPickUp.cs" Line="10" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
